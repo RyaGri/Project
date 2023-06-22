@@ -13,12 +13,12 @@
 - Проведение A/B-теста.
 ## Описание файлов
 1. _EDA.ipynb_ - разведочный анализ данных
-2. Подготовка признаков для модели
+2. Подготовка признаков для обучения модели
     - _tables_embeddings.ipynb_
     - _tables.ipynb_
 3. _training model.ipynb_ - обучение моделей
 4. _app.py_ - сервис и данные для работы сервиса 
-  - _model_test_
+    - _model_test_
     - _model_control_
     - _schema.py_
 5.  _AB test.ipynb_ - A/B эксперимент и данные для него
